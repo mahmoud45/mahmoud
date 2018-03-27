@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1520182832 source:e:\ﬂ·Ì…\c++\cipher_p#9\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cstring>
+	<cmath>
+	<string>
+	<algorithm>
+	<stdio.h>
+	<iterator>
+	<string.h>
+
